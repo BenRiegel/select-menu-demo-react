@@ -1,0 +1,9 @@
+.output{
+  width: 250px;
+  height: 300px;
+  padding: 5px;
+  margin-top: 10px;
+  background-color: white;
+  overflow: scroll;
+  font-size: 14px;
+}
